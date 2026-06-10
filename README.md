@@ -1,4 +1,4 @@
-# Bonjour, je suis Christian Njoh 👋
+#ƒ Bonjour, je suis Christian Njoh 👋
 
 ## 🚀 Cloud & DevOps Engineer in progress
 
@@ -57,4 +57,4 @@ avec une expertise multi-cloud complète.
 
 ## 📫 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-njoh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-joel-e-50b586185)
